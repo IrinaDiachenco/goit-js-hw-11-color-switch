@@ -1,4 +1,4 @@
-import './styles.css';
+
 
 const btnStart = document.querySelector('button[data-action="start"]');
 const btnStop = document.querySelector('button[data-action="stop"]');
